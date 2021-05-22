@@ -1,5 +1,5 @@
 # virtual_mouse
-Here I have prepared a virtual mouse using computer vision which will work only for moving of mouse and clicking of mouse
+Here I have prepared a virtual mouse using computer vision with hand tracking system.which will help for moving of mouse and clicking of mouse using index and middle fingures.
 
 Libraries used:-
 
